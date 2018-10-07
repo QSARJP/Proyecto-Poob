@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Linea
+comment0.text=\r\n\ Esta\ clase\ es\ la\ encargada\ de\ crear\ el\ objeto\ linea\ la\ cual\ es\ la\ representacion\ grafica\ de\ una\ ruta.\r\n\ \r\n\ @author\ Juan\ Pablo\ Ospina\ Henao\ -\ Miguel\ Angel\ Rivera\ Rojas\ \r\n\ @version\ 1\r\n
+comment1.params=newx1\ newy1\ newx2\ newy2\ nColor
+comment1.target=Linea(int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ los\ objetos\ de\ tipo\ linea\r\n\ @param\ newx1\ \ posicion\ en\ el\ eje\ x\ de\ la\ figura\ 1\r\n\ @param\ newy1\ \ posicion\ en\ el\ eje\ y\ de\ la\ figura\ 2\r\n\ @param\ newx2\ \ posicion\ en\ el\ eje\ x\ de\ la\ figura\ 1\r\n\ @param\ newy2\ \ posicion\ en\ el\ eje\ y\ de\ la\ figura\ 2\r\n\ @param\ nColor\ color\ de\ la\ linea\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ volver\ visible\ la\ linea.\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ volver\ invisible\ la\ linea.\r\n
+comment4.params=newColor
+comment4.target=void\ changeColor(java.lang.String)
+comment4.text=\r\n\ Cambia\ de\ color\ dependiendo\ el\ nombre\ \ \ \r\n\ @param\ newColor\ nombre\ del\ color.\r\n
+comment5.params=
+comment5.target=void\ draw()
+comment5.text=\r\n\ Draw\ the\ line\ with\ current\ specifications\ on\ screen.\r\n
+comment6.params=
+comment6.target=void\ erase()
+comment6.text=\r\n\ Erase\ the\ line\ on\ screen.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getColor()
+numComments=8

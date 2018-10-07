@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Esta\ clase\ ayuda\ a\ elegir\ una\ forma\ para\ las\ naciones\ y\ el\ respectivo\ color.\r\n\ \r\n\ @author\ Juan\ Pablo\ Ospina\ Henao\ -\ Miguel\ Angel\ Rivera\ Rojas\ \r\n\ @version\ 1\r\n
+comment1.params=nHeight\ nWidth\ nxPosition\ nyPosition\ nColor
+comment1.target=Triangle(int,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ los\ objetos\ de\ tipo\ triangulo\r\n\ @param\ nHeight\ \ la\ altura\ del\ triangulo\r\n\ @param\ nWidth\ \ \ el\ ancho\ del\ triangulo\ \r\n\ @param\ nxPosition\ \ posicion\ en\ el\ eje\ x\ de\ la\ figura\ \r\n\ @param\ nyPosition\ \ posicion\ en\ el\ eje\ y\ de\ la\ figura\ \r\n\ @param\ nColor\ color\ del\ circulo\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Vuelve\ el\ triangle\ visible\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Vuelve\ el\ triangle\ invisible\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment5.params=
+comment5.target=void\ erase()
+comment5.text=\r\n\ Erase\ the\ triangle\ on\ screen.\r\n
+numComments=6

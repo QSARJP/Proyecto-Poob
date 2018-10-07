@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\ Esta\ clase\ ayuda\ a\ elegir\ una\ forma\ para\ las\ naciones\ y\ el\ respectivo\ color.\r\n\ \r\n\ @author\ Juan\ Pablo\ Ospina\ Henao\ -\ Miguel\ Angel\ Rivera\ Rojas\ \r\n\ @version\ 1\r\n
+comment1.params=newHeight\ newPositionX\ newPositionY\ ncolor
+comment1.target=Square(int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ los\ objetos\ de\ tipo\ rectangulo\r\n\ @param\ newHeight\ \ el\ lado\ del\ caudrado\r\n\ @param\ newPositionX\ \ posicion\ en\ el\ eje\ x\ de\ la\ figura\ \r\n\ @param\ newPositionY\ \ posicion\ en\ el\ eje\ y\ de\ la\ figura\ \r\n\ @param\ nColor\ color\ del\ circulo\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ Vuelve\ el\ cuadrado\ visible\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ Vuelve\ el\ cuadrado\ invisible\r\n
+comment4.params=newColor
+comment4.target=void\ changeColor(java.lang.String)
+comment4.text=\r\n\ Cambia\ de\ color\ dependiendo\ el\ nombre\ \ \ \r\n\ @param\ newColor\ nombre\ del\ color.\r\n
+comment5.params=
+comment5.target=void\ draw()
+comment6.params=
+comment6.target=void\ erase()
+numComments=7

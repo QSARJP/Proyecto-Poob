@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Esta\ clase\ ayuda\ a\ elegir\ una\ forma\ para\ las\ naciones\ y\ el\ respectivo\ color.\r\n\ \r\n\ @author\ Juan\ Pablo\ Ospina\ Henao\ -\ Miguel\ Angel\ Rivera\ Rojas\ \r\n\ @version\ 1\r\n
+comment1.params=nDiameter\ nxPosition\ nyPosition\ nColor
+comment1.target=Circle(double,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ los\ objetos\ de\ tipo\ Circle\r\n\ @param\ nDiameter\ \ Diametro\ del\ circulo\r\n\ @param\ nxPosition\ \ posicion\ en\ el\ eje\ x\ de\ la\ figura\ \r\n\ @param\ nyPosition\ \ posicion\ en\ el\ eje\ y\ de\ la\ figura\ \r\n\ @param\ nColor\ color\ del\ circulo\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ vuelve\ visible\ el\ circulo\r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment3.text=\r\n\ vuelve\ visible\ el\ circulo\r\n
+comment4.params=newColor
+comment4.target=void\ changeColor(java.lang.String)
+comment4.text=\r\n\ Cambia\ de\ color\ dependiendo\ el\ nombre\ \ \ \ \r\n\ @param\ newColor\ nombre\ del\ color.\r\n
+comment5.params=
+comment5.target=void\ draw()
+comment5.text=\r\n\ Draw\ the\ circle\ with\ current\ specifications\ on\ screen.\r\n
+comment6.params=
+comment6.target=void\ erase()
+comment6.text=\r\n\ Erase\ the\ circle\ on\ screen.\r\n
+numComments=7
